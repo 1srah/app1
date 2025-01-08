@@ -1,8 +1,8 @@
 import React from 'react'
-import {Calculator2} from './calculator';
+import { EvenData2 } from './event-data';
 
 function App() {
-  return ( <Calculator2/>
+  return ( <EvenData2/>
   );
 }
 
